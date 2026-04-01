@@ -1,0 +1,12 @@
+/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Domain/bin/Debug/net8.0/eShopPorted.Domain.deps.json
+/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Domain/bin/Debug/net8.0/eShopPorted.Domain.dll
+/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Domain/bin/Debug/net8.0/eShopPorted.Domain.pdb
+/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Domain/obj/Debug/net8.0/eShopPorted.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Domain/obj/Debug/net8.0/eShopPorted.Domain.AssemblyInfoInputs.cache
+/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Domain/obj/Debug/net8.0/eShopPorted.Domain.AssemblyInfo.cs
+/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Domain/obj/Debug/net8.0/eShopPorted.Domain.csproj.CoreCompileInputs.cache
+/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Domain/obj/Debug/net8.0/eShopPorted.Domain.sourcelink.json
+/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Domain/obj/Debug/net8.0/eShopPorted.Domain.dll
+/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Domain/obj/Debug/net8.0/refint/eShopPorted.Domain.dll
+/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Domain/obj/Debug/net8.0/eShopPorted.Domain.pdb
+/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Domain/obj/Debug/net8.0/ref/eShopPorted.Domain.dll

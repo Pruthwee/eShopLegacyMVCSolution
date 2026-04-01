@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "eShopPorted.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/eShopPorted.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eShopPorted.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eShopPorted.Domain/1.0.0": {
+      "type": "project",
+      "path": "../eShopPorted.Domain/eShopPorted.Domain.csproj",
+      "msbuildProject": "../eShopPorted.Domain/eShopPorted.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "eShopPorted.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/app/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Application/eShopPorted.Application.csproj",
+      "projectName": "eShopPorted.Application",
+      "projectPath": "/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Application/eShopPorted.Application.csproj",
+      "packagesPath": "/app/.nuget/packages/",
+      "outputPath": "/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/app/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Domain/eShopPorted.Domain.csproj": {
+              "projectPath": "/modernize-data/studio-data/TNT1001/APP985984/transformed-code/220/studio-workspace/MOD-3818/eShopPorted.Domain/eShopPorted.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/app/.dotnet/sdk/8.0.419/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

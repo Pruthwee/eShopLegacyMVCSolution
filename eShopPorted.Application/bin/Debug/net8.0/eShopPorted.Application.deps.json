@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "eShopPorted.Application/1.0.0": {
+        "dependencies": {
+          "eShopPorted.Domain": "1.0.0"
+        },
+        "runtime": {
+          "eShopPorted.Application.dll": {}
+        }
+      },
+      "eShopPorted.Domain/1.0.0": {
+        "runtime": {
+          "eShopPorted.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eShopPorted.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eShopPorted.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
